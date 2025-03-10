@@ -14,32 +14,6 @@ Minha paixão por jogos me levou a explorar também o desenvolvimento de games. 
 - 🔹 **[Aplicativo de Lista de Compras em React](#)** – Desenvolver um aplicativo front-end onde o usuário pode adicionar, editar e remover itens de sua lista de compras.  
 - 🔹 **[Portfolio pessoal](#)** – Um site simples feito com HTML, CSS, e React, para mostrar minhas habilidades, projetos e contato.
 
-## 🎯 Objetivos
-
-### **Objetivos a curto prazo (próximos 6 meses)**
-
-- 🔹 **Montar um PC para desenvolvimento** – Adquirir e montar um PC com configurações ideais para programação, desenvolvimento de jogos e design gráfico. O meu objetivo é garantir um ambiente de trabalho eficiente e de alto desempenho para aumentar a produtividade nos estudos e projetos.
-
-- 🔹 **Aprender mais sobre Back-end e APIs** – Aprofundar meu conhecimento em **C#**, **.NET** e **Node.js** para desenvolver APIs e sistemas mais robustos.  
-
-- 🔹 **Criar meu primeiro projeto completo de jogo** – Desenvolver um jogo simples em **Unity** ou **Godot**, colocando em prática o que aprendi sobre desenvolvimento de jogos.
-
-- 🔹 **Participar de mais projetos open-source** – Contribuir para projetos open-source no GitHub para ganhar mais experiência prática e entender o fluxo de trabalho de equipes de desenvolvimento.  
-
-### **Objetivos a médio prazo (1-2 anos)**
-
-- 🔹 **Desenvolver habilidades avançadas em Front-end e Back-end** – Expandir meu conhecimento em tecnologias como **React**, **Vue.js**, **MongoDB** e **PostgreSQL**.
-
-- 🔹 **Criar um portfólio profissional** – Construir um portfólio online com projetos mais complexos que mostrem minhas habilidades em desenvolvimento Full Stack.  
-
-- 🔹 **Trabalhar em um projeto de game comercial** – Participar ou desenvolver um jogo que esteja no mercado, com um time ou como freelancer.
-
-### **Objetivos a longo prazo (3-5 anos)**
-- 🔹 **Trabalhar como desenvolvedor Full Stack** – Conseguir uma posição como desenvolvedor Full Stack em uma empresa ou como freelancer, aplicando minhas habilidades em um ambiente profissional.  
-
-- 🔹 **Lançar meu próprio jogo** – Criar e lançar um jogo próprio, seja como desenvolvedor independente ou em parceria com um estúdio.  
-
-
 ## 🌐 Redes sociais  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](EM_BREVE)  
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000)](https://www.instagram.com/davi_s_medeiros/)  
